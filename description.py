@@ -3,7 +3,7 @@ from typing import Tuple
 
 import numpy as np
 
-from src.lib.tools import get_rotation_matrix
+from tools import get_rotation_matrix
 
 
 @dataclass

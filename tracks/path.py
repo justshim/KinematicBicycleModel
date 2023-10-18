@@ -4,7 +4,7 @@ from typing import List
 
 import numpy as np
 
-from src.lib.tools import generate_cubic_spline
+from tools import generate_cubic_spline
 
 
 def generate_circular_track(radius: float, num_points: int) -> List:
