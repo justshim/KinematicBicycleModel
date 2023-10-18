@@ -3,7 +3,7 @@
 ![codeql.yml](https://github.com/winstxnhdw/KinematicBicycleModel/actions/workflows/codeql.yml/badge.svg)
 
 <div align="center">
-    <img src="resources/animation_wide.gif" />
+    <img src="example.gif" />
 </div>
 
 ## Abstract
