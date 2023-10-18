@@ -61,8 +61,8 @@ if __name__ == "__main__":
     # points = generate_ellipse_track(semi_minor=60, semi_major=30, num_points=100)
 
     # Specify the CSV file path
-    csv_file = 'circle.csv'
-    # csv_file = 'ellipse.csv'
+    csv_file = 'tracks/circle.csv'
+    # csv_file = 'tracks/ellipse.csv'
 
     # Write the coordinates to a CSV file
     with open(csv_file, 'w', newline='') as file:
